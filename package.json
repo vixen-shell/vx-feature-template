@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "type": "module",
     "scripts": {
-        "dev": "vxm --dev",
+        "dev": "vxm --dev run",
         "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
     },
     "dependencies": {
