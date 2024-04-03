@@ -1,0 +1,12 @@
+{
+    "name": "feature",
+    "frames": {
+        "main": {
+            "name": "Feature main frame",
+            "route": "main",
+            "show_on_startup": true,
+            "layer_frame": "disable"
+        }
+    },
+    "state": "disable"
+}
