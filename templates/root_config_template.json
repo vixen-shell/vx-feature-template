@@ -2,7 +2,7 @@
     "__info__": "The '__info *__' keys are for informational purposes only (remove them)",
     "__info null keys__": "A key omitted or assigned 'null' will be eligible for user configuration",
     "__info assigned keys__": "A key assigned to a value or 'disabled' will be locked",
-    "name": "required (string)",
+    "start": "optional (null | 'disable' | string)",
     "frames": {
         "frame_name": {
             "name": "required (string)",
