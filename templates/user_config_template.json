@@ -1,7 +1,7 @@
 {
     "__info__": "The '__info *__' keys are for informational purposes only (remove them)",
     "__info null keys__": "A key omitted or assigned 'null' will be set to the default value",
-    "start": "optional (null | 'disable' | string)",
+    "autostart": "optional (null | 'disable' | string)",
     "frames": {
         "frame_name": {
             "template": "optional (null | string): null",
