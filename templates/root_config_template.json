@@ -54,5 +54,5 @@
             }
         }
     },
-    "state": "optional (null | 'disable' | {[key]: string | number | boolean})"
+    "state": "optional (null | 'disable')"
 }
