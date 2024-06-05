@@ -5,8 +5,7 @@ export default function Main() {
         <ui.Frame gap={64}>
             <h1>Feature '{Feature.featureName}'</h1>
             <p>
-                You have just created a new feature without a front-end for
-                Vixen Shell.
+                You have just created a new feature for Vixen Shell.
                 <br />
                 All you have to do now is implement the different contents of
                 this feature.
