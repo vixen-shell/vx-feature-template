@@ -1,8 +1,9 @@
-import { ui, Feature } from 'vx-front'
+import styles from './index.module.css'
+import { Feature } from 'vx-front'
 
 export default function Main() {
     return (
-        <ui.Frame gap={64}>
+        <div className={styles.main_wrapper}>
             <h1>Feature '{Feature.featureName}'</h1>
             <p>
                 You have just created a new feature for Vixen Shell.
@@ -12,6 +13,6 @@ export default function Main() {
                 <br />
                 Happy developing!
             </p>
-        </ui.Frame>
+        </div>
     )
 }
