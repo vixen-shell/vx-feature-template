@@ -13,16 +13,3 @@ content = Utils.define_feature_content(
         "state": "disable",
     }
 )
-
-
-@content.add_handler("data")
-def date():
-    from datetime import datetime
-
-    date = datetime.now()
-
-    return {
-        "day": date.strftime("%d"),
-        "mounth": date.strftime("%m"),
-        "year": date.strftime("%Y"),
-    }
