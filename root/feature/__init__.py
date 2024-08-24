@@ -1,7 +1,8 @@
-from vx_feature_utils import Utils
+from vx_root import root_feature
 
-utils = Utils.define_feature_utils()
-content = Utils.define_feature_content(
+feature = root_feature()
+
+feature.init(
     {
         "frames": {
             "main": {
