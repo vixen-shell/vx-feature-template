@@ -1,5 +1,5 @@
 {
-    "autostart": true,
+    "autostart": false,
     "frames": {
         "main": {
             "show_on_startup": true
