@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 162.162 163"
+   class="m_2075ec07"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="mantine.svg"
+   width="162.162"
+   height="163"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0955056"
+     inkscape:cx="364.21538"
+     inkscape:cy="84.892308"
+     inkscape:window-width="1898"
+     inkscape:window-height="1058"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g4">
+    <path
+       fill="#339af0"
+       fill-rule="nonzero"
+       d="M 162.162,81.5 C 162.162,36.489 125.861,0 81.082,0 36.301,0 0,36.489 0,81.5 0,126.51 36.301,163 81.081,163 c 44.78,0 81.081,-36.49 81.081,-81.5 z"
+       id="path1" />
+    <g
+       fill="#ffffff"
+       id="g3">
+      <path
+         fill-rule="nonzero"
+         d="m 65.983,43.049 a 6.234,6.234 0 0 0 -0.336,6.884 6.14,6.14 0 0 0 1.618,1.786 c 9.444,7.036 14.866,17.794 14.866,29.52 0,11.726 -5.422,22.484 -14.866,29.52 a 6.142,6.142 0 0 0 -1.616,1.786 6.211,6.211 0 0 0 -0.694,4.693 c 0.197,0.79 0.546,1.533 1.028,2.186 a 6.154,6.154 0 0 0 8.634,1.284 50.112,50.112 0 0 0 7.947,-7.39 h 17.493 c 3.406,0 6.174,-2.772 6.174,-6.194 0,-3.422 -2.762,-6.194 -6.174,-6.194 h -9.655 a 49.166,49.166 0 0 0 4.071,-19.69 49.166,49.166 0 0 0 -4.07,-19.692 h 9.66 c 3.406,0 6.173,-2.771 6.173,-6.194 0,-3.422 -2.762,-6.193 -6.173,-6.193 H 82.574 a 50.11,50.11 0 0 0 -7.952,-7.397 6.149,6.149 0 0 0 -4.578,-1.153 6.189,6.189 0 0 0 -4.055,2.438 z"
+         id="path2" />
+      <path
+         d="m 56.236,79.391 a 9.342,9.342 0 0 1 0.632,-3.608 9.261,9.261 0 0 1 1.967,-3.077 9.143,9.143 0 0 1 2.994,-2.063 9.06,9.06 0 0 1 7.103,0 9.144,9.144 0 0 1 2.995,2.063 9.261,9.261 0 0 1 1.967,3.077 9.34,9.34 0 0 1 0.63,3.608 9.299,9.299 0 0 1 -2.755,6.395 9.094,9.094 0 0 1 -6.388,2.63 9.094,9.094 0 0 1 -6.39,-2.63 9.299,9.299 0 0 1 -2.755,-6.395 z"
+         id="path3" />
+    </g>
+  </g>
+</svg>

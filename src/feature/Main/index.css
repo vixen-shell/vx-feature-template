@@ -1,26 +1,3 @@
-.main-wrapper {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-@media (min-height: 800px) {
-    .main-wrapper {
-        justify-content: center;
-        gap: 90px;
-    }
-}
-
-.title {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 2em;
-}
-
 .logo {
     height: 6em;
     padding: 1.5em;
@@ -37,28 +14,11 @@
 .logo.react:hover {
     filter: drop-shadow(0 0 1em #61dafbaa);
 }
-
-.logo.react {
-    animation: logo-spin infinite 20s linear;
+.logo.mantine:hover {
+    filter: drop-shadow(0 0 1em #41b3ffaa);
 }
-
-@keyframes logo-spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
-}
-
-.card {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 2em;
-    padding: 2em;
-    text-align: center;
+.logo.phosphor:hover {
+    filter: drop-shadow(0 0 1em #d8f7ffaa);
 }
 
 .read-the-docs {
