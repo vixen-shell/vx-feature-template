@@ -1,28 +1,23 @@
-import { Feature, Icon } from 'vx-front'
-import {
-    Space,
-    Stack,
-    Title,
-    Group,
-    Image,
-    Text,
-    Button,
-    Blockquote,
-    Code,
-    useMantineTheme,
-} from '@mantine/core'
+import './index.css'
+
+import { Feature } from '@vx-feature'
+import { Stack, Space, Group } from '@vx-layoutComponents'
+import { Title, Text, Blockquote, Code } from '@vx-typographyComponents'
+import { Icon, Image } from '@vx-dataComponents'
+import { Button } from '@vx-buttonComponents'
+import { useTheme, useCounter } from '@vx-hooks'
+
 import vixenLogo from '/vixen.svg'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import mantineLogo from './assets/mantine.svg'
-import './index.css'
-import { useCounter } from '@mantine/hooks'
 
 function Main() {
-    const theme = useMantineTheme()
-    const [count, handlers] = useCounter(0, { min: 0, max: 10 })
+    const theme = useTheme()
     const task = Feature.Use.Task()
     const data = Feature.Use.Data()
+
+    const [count, handlers] = useCounter(0, { min: 0, max: 10 })
 
     return (
         <Stack h="100%" justify="center" align="center">
