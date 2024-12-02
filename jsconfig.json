@@ -1,13 +1,1 @@
-{
-    "compilerOptions": {
-        "baseUrl": ".",
-        "paths": {
-            "@vx-components/*": [
-                "/var/opt/vx-front-main/components/*",
-                "components/*"
-            ],
-            "@vx-hooks/*": ["/var/opt/vx-front-main/hooks/*", "hooks/*"],
-            "@vx-feature": ["/var/opt/vx-front-main/feature"]
-        }
-    }
-}
+/var/opt/vx-front-main/jsconfig.json
