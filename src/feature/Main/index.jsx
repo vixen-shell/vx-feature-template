@@ -1,12 +1,19 @@
 import './index.css'
 
 import { Feature } from '@vx-feature'
-import { Stack, Space, Group } from '@vx-layoutComponents'
-import { Title, Text, Blockquote, Code } from '@vx-typographyComponents'
-import { Icon, Image } from '@vx-dataComponents'
-import { Button } from '@vx-buttonComponents'
-import { ScrollArea } from '@vx-variousComponents'
-import { useTheme, useCounter } from '@vx-hooks'
+import { Stack, Space, Group } from '@vx-components/Mantine/Layouts'
+import {
+    Title,
+    Text,
+    Blockquote,
+    Code,
+} from '@vx-components/Mantine/Typography'
+import { Image } from '@vx-components/Mantine/Data'
+import { Icon } from '@vx-components/Vixen'
+import { Button } from '@vx-components/Mantine/Buttons'
+import { ScrollArea } from '@vx-components/Mantine/Various'
+import { useTheme } from '@vx-hooks/Mantine/Ui'
+import { useCounter } from '@vx-hooks/Mantine/State'
 
 import vixenLogo from '/vixen.svg'
 import reactLogo from './assets/react.svg'
